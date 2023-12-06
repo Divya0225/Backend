@@ -13,7 +13,7 @@
       "XL"
     ],
     "brand": "DenimStyle",
-    "inventory": 100
+    "inventory": true
   },
   {
     "_id": "656fdcf987c6a040c1b672ba",
@@ -28,7 +28,7 @@
       "XL"
     ],
     "brand": "CasualChic",
-    "inventory": 150
+    "inventory": true
   },
   {
     "_id": "656fdcf987c6a040c1b672bb",
@@ -43,7 +43,7 @@
       "L"
     ],
     "brand": "UrbanEdge",
-    "inventory": 75
+    "inventory": false
   },
   {
     "_id": "656fdcf987c6a040c1b672bc",
@@ -58,7 +58,7 @@
       "XL"
     ],
     "brand": "ElegantWear",
-    "inventory": 120
+    "inventory": false
   },
   {
     "_id": "656fdcf987c6a040c1b672bd",
@@ -73,6 +73,6 @@
       "XL"
     ],
     "brand": "SportFlex",
-    "inventory": 80
+    "inventory": true
   }
 ]
